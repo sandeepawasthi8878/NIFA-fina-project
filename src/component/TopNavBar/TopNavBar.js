@@ -19,10 +19,10 @@ function TopNavBar() {
                         <a href="mailto:admission@nifafinearts.com">admission@nifafinearts.com</a>
                     </div>
                     <ul className="header-social">
-                        <li><a href="#"><i className="ri-facebook-circle-line"></i></a></li>
-                        <li><a href="#"><i className="ri-twitter-line"></i></a></li>
-                        <li><a href="#"><i className="ri-instagram-line"></i></a></li>
-                        <li><a href="#"><i className="ri-youtube-line"></i></a></li>
+                        <li><a href="https://www.facebook.com"><i className="ri-facebook-circle-line"></i></a></li>
+                        <li><a href="https://www.twitter.com"><i className="ri-twitter-line"></i></a></li>
+                        <li><a href="https://www.instagram.com"><i className="ri-instagram-line"></i></a></li>
+                        <li><a href="https://www.youtube.com"><i className="ri-youtube-line"></i></a></li>
                     </ul>
                 </div>
             </div>
