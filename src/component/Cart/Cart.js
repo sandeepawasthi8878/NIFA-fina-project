@@ -64,8 +64,8 @@ function Cart() {
           <div className="competition-category" key={index}>
             <div className="competition-card">
               <img src={imageUrls[index]} alt={`Course ${index + 1}`} />
-              <p style={{marginTop:'20px', marginBottom:'20px'}}>{card.description}</p>
-              <button style={{marginTop:'20px', marginBottom:'20px'}} className="button-style">Know More</button>
+              <p style={{ marginTop: '20px', marginBottom: '20px' }}>{card.description}</p>
+              <button className="button-style3">Know More</button>
             </div>
           </div>
         ))}
