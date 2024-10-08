@@ -6,7 +6,7 @@ function MobHeader() {
     return (
         <div className='MobHeader'>
             <div className='logo'>
-                <img src={logo} />
+                <img src={logo}  alt='logo11'/>
             </div>
             <div className='email'>
                 <i class="ri-mail-line"></i>
